@@ -5,12 +5,10 @@
  * given circuit.                                                               *
  * ============================================================================ *
  */
-
 #include <string>
 #include <vector>
 #include <set>
 #include "graph.h"
-
 
 /*
  * Function : simulateCircuit(circuit,input)                                      *
